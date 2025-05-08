@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/megha2627/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/megha2627/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/megha2627/DSA/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/megha2627/DSA/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/megha2627/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/megha2627/DSA/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/megha2627/DSA/tree/master/0045-jump-game-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/megha2627/DSA/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/megha2627/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
