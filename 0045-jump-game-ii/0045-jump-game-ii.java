@@ -1,23 +1,16 @@
 class Solution {
     public int jump(int[] nums) {
-        int[] dp = new int[nums.length];
-        Arrays.fill(dp, -1);
-        return solve(nums, 0, dp);
-    }
-
-    public int solve(int[] nums, int i, int[] dp) {
-        if (i >= nums.length - 1) return 0; // No more jumps needed
-        if (dp[i] != -1) return dp[i];      // Return already computed result
-
-        int min = Integer.MAX_VALUE;
-
-        for (int j = 1; j <= nums[i]; j++) {
-            int next = solve(nums, i + j, dp);
-            if (next != Integer.MAX_VALUE) {
-                min = Math.min(min, 1 + next);
+        int jumps = 0, farthest = 0, currentEnd = 0;
+        
+        for (int i = 0; i < nums.length - 1; i++) {
+            farthest = Math.max(farthest, i + nums[i]);
+            
+            if (i == currentEnd) {
+                jumps++;
+                currentEnd = farthest;
             }
         }
-
-        return dp[i] = min;
+        
+        return jumps;
     }
 }
