@@ -1,41 +1,23 @@
-/*class Solution {
-     int min=Integer.MAX_VALUE;
-    public int jump(int[] nums) {
-        int val=0;
-       
-        solve(nums,val,0);
-        return min;
-        
-    }
-    public void solve(int[] nums,int val,int i){
-        if(i==nums.length-1){
-            min=Math.min(min,val);
-            return;
-        }
-        if(i>nums.length-1){
-            return;
-        }
-        for(int j=1;j<=nums[i];j++){
-            solve(nums,val+1,j+i);
-        }
-    }
-}*/
-
 class Solution {
     public int jump(int[] nums) {
-        int jumps = 0;
-        int currentEnd = 0;
-        int farthest = 0;
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp, -1);
+        return solve(nums, 0, dp);
+    }
 
-        for (int i = 0; i < nums.length - 1; i++) {
-            farthest = Math.max(farthest, i + nums[i]);
+    public int solve(int[] nums, int i, int[] dp) {
+        if (i >= nums.length - 1) return 0; // No more jumps needed
+        if (dp[i] != -1) return dp[i];      // Return already computed result
 
-            if (i == currentEnd) {
-                jumps++;
-                currentEnd = farthest;
+        int min = Integer.MAX_VALUE;
+
+        for (int j = 1; j <= nums[i]; j++) {
+            int next = solve(nums, i + j, dp);
+            if (next != Integer.MAX_VALUE) {
+                min = Math.min(min, 1 + next);
             }
         }
 
-        return jumps;
+        return dp[i] = min;
     }
 }
