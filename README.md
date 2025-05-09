@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/megha2627/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/megha2627/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/megha2627/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/megha2627/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/megha2627/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/megha2627/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/megha2627/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/megha2627/DSA/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/megha2627/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/megha2627/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/megha2627/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/megha2627/DSA/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/megha2627/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/megha2627/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/megha2627/DSA/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/megha2627/DSA/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
