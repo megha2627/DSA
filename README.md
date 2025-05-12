@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/megha2627/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/megha2627/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/megha2627/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/megha2627/DSA/tree/master/0062-unique-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/megha2627/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/megha2627/DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/megha2627/DSA/tree/master/0062-unique-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/megha2627/DSA/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/megha2627/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
