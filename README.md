@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/megha2627/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/megha2627/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/megha2627/DSA/tree/master/0046-permutations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/megha2627/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/megha2627/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/megha2627/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/megha2627/DSA/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/megha2627/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -162,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/megha2627/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/megha2627/DSA/tree/master/0071-simplify-path) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/megha2627/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/megha2627/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/megha2627/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
