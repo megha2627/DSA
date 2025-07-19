@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/megha2627/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/megha2627/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/megha2627/DSA/tree/master/0086-partition-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/megha2627/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/megha2627/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/megha2627/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/megha2627/DSA/tree/master/0071-simplify-path) |
+| [0345-reverse-vowels-of-a-string](https://github.com/megha2627/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
