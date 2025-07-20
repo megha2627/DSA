@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/megha2627/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/megha2627/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/megha2627/DSA/tree/master/0096-unique-binary-search-trees) |
+| [2556-convert-the-temperature](https://github.com/megha2627/DSA/tree/master/2556-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
