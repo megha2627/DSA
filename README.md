@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/megha2627/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/megha2627/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/megha2627/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/megha2627/DSA/tree/master/0169-majority-element) |
 ## Combinatorics
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/megha2627/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/megha2627/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/megha2627/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/megha2627/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Recursion
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/megha2627/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/megha2627/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/megha2627/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/megha2627/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/megha2627/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/megha2627/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/megha2627/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/megha2627/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/megha2627/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/megha2627/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/megha2627/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/megha2627/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/megha2627/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
