@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/megha2627/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/megha2627/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/megha2627/DSA/tree/master/0169-majority-element) |
+| [0611-valid-triangle-number](https://github.com/megha2627/DSA/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/megha2627/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/megha2627/DSA/tree/master/0086-partition-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/megha2627/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0611-valid-triangle-number](https://github.com/megha2627/DSA/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/megha2627/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/megha2627/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/megha2627/DSA/tree/master/0169-majority-element) |
+| [0611-valid-triangle-number](https://github.com/megha2627/DSA/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/megha2627/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/megha2627/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/megha2627/DSA/tree/master/0035-search-insert-position) |
+| [0611-valid-triangle-number](https://github.com/megha2627/DSA/tree/master/0611-valid-triangle-number) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/megha2627/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/megha2627/DSA/tree/master/0055-jump-game) |
+| [0611-valid-triangle-number](https://github.com/megha2627/DSA/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
