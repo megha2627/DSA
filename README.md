@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/megha2627/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/megha2627/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/megha2627/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/megha2627/DSA/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/megha2627/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/megha2627/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/megha2627/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/megha2627/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/megha2627/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/megha2627/DSA/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/megha2627/DSA/tree/master/0079-word-search) |
 | [0345-reverse-vowels-of-a-string](https://github.com/megha2627/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Backtracking
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/megha2627/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/megha2627/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/megha2627/DSA/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/megha2627/DSA/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/megha2627/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/megha2627/DSA/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/megha2627/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/megha2627/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/megha2627/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/megha2627/DSA/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/megha2627/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/megha2627/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/megha2627/DSA/tree/master/0100-same-tree) |
