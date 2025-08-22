@@ -13,34 +13,37 @@ class Solution {
         if(head==null){
             return null;
         }
-        ListNode temp1=head;
-        int c=0;
-        while(temp1!=null){
-            temp1=temp1.next;
-            c=c+1;
-        }
-        if(k==0 || k%c==0){
-            return head;
-        }
-        k=k%c;
-    
+        int val=0;
         ListNode temp=head;
-        for(int i=1;i<c-k;i++){
+        while(temp!=null){
             temp=temp.next;
+            val++;
         }
-        ListNode p=temp.next;
-        temp.next=null;
-        ListNode s=p;
-        while(p!=null && p.next!=null){
-            p=p.next;
-        }
-        if(p!=null){
-             p.next=head;
+        k=k%val;
+        ListNode prev=null;
+        ListNode temp1=head;
+        for(int i=0;i<val-k;i++){
+            prev=temp1;
+            temp1=temp1.next;
 
+
+            
         }
-       
-        return s;
-        
+        ListNode temp2=null;
+        ListNode temp3=null;
+        if(prev.next!=null){
+            temp2=prev.next;
+            temp3=prev.next;
+            prev.next=null;
+        }
+        while(temp2!=null && temp2.next!=null){
+            temp2=temp2.next;
+        }
+        if(temp2!=null){
+            temp2.next=head;
+            return temp3;
+        }
+        return head;
         
     }
 }
