@@ -1,32 +1,41 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        // Dummy nodes to start the before and after lists
+        // Dummy heads for before (< x) and after (>= x) lists
         ListNode beforeHead = new ListNode(0);
         ListNode afterHead = new ListNode(0);
-
-        // Pointers to the current end of the before and after lists
+        
         ListNode before = beforeHead;
         ListNode after = afterHead;
-
+        
         // Traverse the original list
         while (head != null) {
             if (head.val < x) {
-                before.next = head;
+                before.next = head;   // add to "before" list
                 before = before.next;
             } else {
-                after.next = head;
+                after.next = head;    // add to "after" list
                 after = after.next;
             }
             head = head.next;
         }
-
-        // Important: Terminate the after list
+        
+        // Important: end after list
         after.next = null;
-
-        // Connect the two partitions
+        
+        // Connect before list with after list
         before.next = afterHead.next;
-
-        // The start of the new list is at beforeHead.next
+        
+        // Return the head of the new list
         return beforeHead.next;
     }
 }
