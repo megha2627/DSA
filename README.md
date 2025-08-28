@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/megha2627/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/megha2627/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/megha2627/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/megha2627/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/megha2627/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/megha2627/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/megha2627/DSA/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/megha2627/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Stack
 |  |
 | ------- |
