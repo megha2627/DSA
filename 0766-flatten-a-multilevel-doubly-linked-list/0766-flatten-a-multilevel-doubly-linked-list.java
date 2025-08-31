@@ -10,48 +10,41 @@ class Node {
 
 class Solution {
     public Node flatten(Node head) {
-        if (head == null) return null;
-        solve(head);
-        return head;
-    }
-
-    // This function flattens the list starting from 'node' and returns the tail node
-    private Node solve(Node node) {
-        Node curr = node;
-        Node tail = node;
-
-        while (curr != null) {
-            Node nextNode = curr.next;
-
-            // If current node has a child
-            if (curr.child != null) {
-                Node childHead = curr.child;
-
-                // Flatten the child list
-                Node childTail = solve(childHead);
-
-                // Connect current node to child
-                curr.next = childHead;
-                childHead.prev = curr;
-
-                // Connect child's tail to nextNode
-                if (nextNode != null) {
-                    childTail.next = nextNode;
-                    nextNode.prev = childTail;
-                }
-
-                // Child is processed, set it to null
-                curr.child = null;
-
-                // Move tail to childTail
-                tail = childTail;
-            } else {
-                tail = curr;
-            }
-
-            curr = nextNode;
+        if(head==null){
+            return null;
         }
-
+        Node temp=head;
+        solve(temp);
+        return head;
+        
+    }
+    public Node solve(Node temp){
+        Node curr=temp;
+        Node tail=temp;
+        
+        while(curr!=null){
+            Node next1=curr.next;
+            if(curr.child!=null){
+               
+                Node tail1=solve(curr.child);
+                curr.next=curr.child;
+                curr.child.prev=curr;
+                if(next1!=null){
+                    tail1.next=next1;
+                    next1.prev=tail1;
+                }
+                else{
+                    tail1.next=null;
+                }
+                tail=tail1;
+                curr.child=null;
+            }
+            else{
+                tail=curr;
+            }
+            curr=next1;
+            
+        }
         return tail;
     }
 }
