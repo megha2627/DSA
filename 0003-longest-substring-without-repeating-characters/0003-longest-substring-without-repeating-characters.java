@@ -8,10 +8,9 @@ class Solution {
             }
             else{
                 while(a.size()>=0){
-                    if(a.contains(s.charAt(i))){
-                        a.remove(0);
-                    }
-                    else{
+                    a.remove(0);
+                    
+                    if(!a.contains(s.charAt(i))){
                         a.add(s.charAt(i));
                         break;
                     }
@@ -24,3 +23,33 @@ class Solution {
         
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
