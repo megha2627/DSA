@@ -1,4 +1,4 @@
-import java.math.BigInteger;
+import java.math.*;
 
 class Solution {
     public String multiply(String num1, String num2) {
