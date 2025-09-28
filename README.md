@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/megha2627/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/megha2627/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/megha2627/DSA/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/megha2627/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/megha2627/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/megha2627/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/megha2627/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/megha2627/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/megha2627/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/megha2627/DSA/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/megha2627/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/megha2627/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Backtracking
 |  |
