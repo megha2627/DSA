@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/megha2627/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/megha2627/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/megha2627/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/megha2627/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/megha2627/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/megha2627/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/megha2627/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/megha2627/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/megha2627/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/megha2627/DSA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/megha2627/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/megha2627/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Backtracking
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/megha2627/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/megha2627/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/megha2627/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/megha2627/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [2556-convert-the-temperature](https://github.com/megha2627/DSA/tree/master/2556-convert-the-temperature) |
 | [3227-find-missing-and-repeated-values](https://github.com/megha2627/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
