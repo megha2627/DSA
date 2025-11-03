@@ -1,30 +1,19 @@
-import java.util.Arrays;
-
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
-
-        int[][] L = new int[intervals.length][2];
-        int k = 0;
-
-        int i = 0;
-        while (i < intervals.length) {
-            int start = intervals[i][0];
-            int end = intervals[i][1];
-
-            // Merge all overlapping intervals
-            while (i + 1 < intervals.length && end >= intervals[i + 1][0]) {
-                end = Math.max(end, intervals[i + 1][1]);
+        ArrayList<int[]> a=new ArrayList<>();
+        Arrays.sort(intervals,(a1,b1)->Integer.compare(a1[0],b1[0]));
+        for(int i=0;i<intervals.length;i++){
+            int max=intervals[i][1];
+            int min=intervals[i][0];
+            while(i+1<intervals.length && max>=intervals[i+1][0]){
+                
+                max=Math.max(max,intervals[i+1][1]);
                 i++;
             }
-
-            L[k][0] = start;
-            L[k][1] = end;
-            k++;
-            i++;
+            a.add(new int[]{min,max});
         }
-
-        // Resize array to only used part
-        return Arrays.copyOf(L, k);
+        int[][] arr=a.toArray(new int[a.size()][2]);
+        return arr;
+        
     }
 }
