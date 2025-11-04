@@ -13,29 +13,28 @@ class Solution {
         if(head==null){
             return null;
         }
+        int c=0;
         ListNode temp=head;
-        
-       int i=0;
-        ListNode temp1=head;
-       while(temp1!=null){
-        temp1=temp1.next;
-        i++;
-       }
-       if(n==i){
-        return head.next;
-       }
-       int n1=i-n;
-       int v=0;
-        while(temp!=null && v!=n1-1){
+        while(temp!=null){
             temp=temp.next;
-            v++;
-          
+            c++;
         }
-        if(temp.next!=null){
-            temp.next=temp.next.next;
+        if(c<n){
+            return head;
         }
-       
-        return head;
+       if (n == c) {
+            return head.next;
+        }
+       temp=head;
+       int k=c-n;
+       for(int i=1;i<k;i++){
+        temp=temp.next;
+
+       }
+       if(temp.next!=null){
+        temp.next=temp.next.next;
+       }
         
+        return head;
     }
 }
