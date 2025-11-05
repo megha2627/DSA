@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/megha2627/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/megha2627/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/megha2627/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/megha2627/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/megha2627/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/megha2627/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/megha2627/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/megha2627/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/megha2627/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/megha2627/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/megha2627/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/megha2627/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/megha2627/DSA/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/megha2627/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/megha2627/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
