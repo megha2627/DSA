@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/megha2627/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/megha2627/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/megha2627/DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/megha2627/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/megha2627/DSA/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/megha2627/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/megha2627/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/megha2627/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/megha2627/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/megha2627/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/megha2627/DSA/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/megha2627/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/megha2627/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/megha2627/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/megha2627/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/megha2627/DSA/tree/master/0200-number-of-islands) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/megha2627/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/megha2627/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/megha2627/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/megha2627/DSA/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/megha2627/DSA/tree/master/0200-number-of-islands) |
 ## Counting
 |  |
 | ------- |
@@ -363,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/megha2627/DSA/tree/master/0014-longest-common-prefix) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/megha2627/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
