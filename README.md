@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/megha2627/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/megha2627/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/megha2627/DSA/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/megha2627/DSA/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/megha2627/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/megha2627/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/megha2627/DSA/tree/master/0611-valid-triangle-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/megha2627/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/megha2627/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/megha2627/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/megha2627/DSA/tree/master/0322-coin-change) |
 ## Matrix
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/megha2627/DSA/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/megha2627/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/megha2627/DSA/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/megha2627/DSA/tree/master/0322-coin-change) |
 ## Counting
 |  |
 | ------- |
